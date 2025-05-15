@@ -4,5 +4,8 @@ Scrie un subprogram care primește un număr natural și afișează descompunere
 2. Verificare Număr Perfect
 Scrie un subprogram care determină dacă un număr este perfect (suma divizorilor săi proprii este egală cu el).
 
- 3.Afișare Cifre în Ordine Descrescătoare
-Scrie un subprogram care primește un număr și returnează un alt număr format din cifrele sale aranjate descrescător.
+3.Afișare Cifre în Ordine Descrescătoare
+Scrie un subprogram care primește un număr și returnează un alt număr format din cifrele sale aranjate descrescător. Si afla suma dintre el si oglinditul lui
+
+4. Număr Format din Cifre Impare
+Scrie un subprogram care primește un număr și construiește un alt număr format doar din cifrele impare ale acestuia, în ordinea în care apar.
