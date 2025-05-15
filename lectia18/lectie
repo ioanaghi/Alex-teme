@@ -9,3 +9,6 @@ Scrie un subprogram care primește un număr și returnează un alt număr forma
 
 4. Număr Format din Cifre Impare
 Scrie un subprogram care primește un număr și construiește un alt număr format doar din cifrele impare ale acestuia, în ordinea în care apar.
+
+5. Număr Echilibrat
+Scrie un subprogram care primește un număr și verifică dacă nr cifre pare = nr cifre impare.
