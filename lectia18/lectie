@@ -1,3 +1,5 @@
 1. Descompunere în Factori Primi
 Scrie un subprogram care primește un număr natural și afișează descompunerea lui în factori primi (ex: 60 = 2^2 * 3 * 5).
 
+2. Verificare Număr Perfect
+Scrie un subprogram care determină dacă un număr este perfect (suma divizorilor săi proprii este egală cu el).
