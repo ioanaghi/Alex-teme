@@ -1,2 +1,4 @@
 1. Media Pătratelor Pare din Vector
 Scrie un subprogram care primește un vector de n numere întregi și returnează media aritmetică a pătratelor numerelor pare.
+2. Numere Prime pe Diagonala Principală
+Scrie un subprogram care primește o matrice pătratică și returnează câte elemente prime se află pe diagonala principală.
