@@ -1,0 +1,2 @@
+1. Suma elementelor unui vector
+Scrie o funcție recursivă care calculează suma tuturor elementelor dintr-un vector.
