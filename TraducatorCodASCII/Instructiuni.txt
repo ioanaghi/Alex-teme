@@ -1,0 +1,2 @@
+1. Citim nr traducem cod ascii
+2. Citim cOD ASCII transformam in numar
