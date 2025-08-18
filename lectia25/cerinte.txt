@@ -1,0 +1,1 @@
+1. Scrie un program care citește două numere întregi și afișează suma, diferența, produsul, câtul si restul împărțirii întregi.
