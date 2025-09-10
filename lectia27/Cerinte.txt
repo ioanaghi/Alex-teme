@@ -1,0 +1,2 @@
+1.matrice verificare margine
+2. cuvant cu minim de litere
