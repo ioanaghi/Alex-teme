@@ -1,0 +1,30 @@
+#include <iostream>
+#include <cstring>
+using namespace std;
+struct animal {
+    int picioare;
+    bool sunete;
+    char sunet[256];
+}pisica, peste, caine;
+
+int main()
+{
+    animal rechin;
+    pisica.picioare = 4;
+    pisica.sunete = 1;
+    strcpy_s(pisica.sunet, "miau");
+   
+    cin >> peste.picioare;
+    cin >> peste.sunete;
+    cin >> peste.sunet;
+
+    cout << pisica.picioare << endl;
+
+    cout << peste.picioare << endl;
+    cout << peste.sunete << endl;
+    cout << peste.sunet;
+
+    return 0;
+    
+}
+
